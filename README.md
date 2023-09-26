@@ -1,5 +1,4 @@
-<p align="center"> <img  width="1900" high="30" src="https://www.bing.com/th/id/OGC.2e7392bd69172cb64fb648d6a5abb830?pid=1.7&rurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2fxTiTnxpQ3ghPiB2Hp6%2fgiphy.gif&ehk=c8COSrPeIa%2bBkADUMjh%2bzxXm3w0fTQl1i4NEgrydoPE%3d" /> </p>
-
+<p align="center"> <img  width="1900" high="30" src="https://www.bing.com/th/id/OGC.e7c2bbb0daeedebe69ab96d8c98578d1?pid=1.7&rurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2fi4jKn7itdV2Tvjzj6Y%2fgiphy.gif&ehk=J4UjybaSg6L84QzOL70oGTl9OReI4cHwtJDNPm5V8E0%3d" /> </p>
 <h1 align="center">Hi 👋, I'm Oumayma</h1>
 <h3 align="center">A future engineer passionate about artificial intelligence</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5b164c7b384f763952295dc4eaff90234628469545b4a413f7d79600d4cb23e2/68747470733a2f2f6d656469612e74656e6f722e636f6d2f505039763756497336523441414141642f7363616c65722d6372656174652d696d706163742e676966">
